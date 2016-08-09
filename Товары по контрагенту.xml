@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.1">
-	<ExternalReport uuid="cf63e39c-0de7-41de-9745-efabe00df431">
+	<ExternalReport uuid="2aad2402-c50e-4ba5-9391-a59e79fb0040">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>e41aff26-25cf-4bb6-b6c1-3f478a75f374</xr:ClassId>
-				<xr:ObjectId>3bf9f5ac-560d-4cd2-a531-56ad3a9e3404</xr:ObjectId>
+				<xr:ObjectId>018fcfb7-6792-41c1-8123-2a52f7288991</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:GeneratedType name="ExternalReportObject.ТоварыПоКонтрагенту" category="Object">
-				<xr:TypeId>a2aaa3ff-2918-4a9e-b74f-dd98654246c7</xr:TypeId>
-				<xr:ValueId>a7152054-e03f-4a37-a49c-0e5a40301b1e</xr:ValueId>
+				<xr:TypeId>7c8f9cc7-3d55-4a6e-bc44-2e8e2b64e0d8</xr:TypeId>
+				<xr:ValueId>5d4c6b5b-3b97-497a-8f13-0885af5686d8</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
